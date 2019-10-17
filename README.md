@@ -36,7 +36,7 @@ Apply all the main concepts of NodeJS and Express. How to use global/local middl
 
 ### Routes
 
-- `POST /projects`: This route receives the id and title in the body of the request. Creating a project like this format: `{ id: "1", title: 'Novo projeto', tasks: [] }`;
+- `POST /projects`: This route receives the id and title in the body of the request. Creating a project like this format: `{ id: "1", title: 'NewProject', tasks: [] }`;
 
 - `GET /projects`: This route list all the projects storaged
 
