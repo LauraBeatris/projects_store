@@ -22,13 +22,17 @@
 
 <p align="center">
   <a href="#rocket-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ballot_box_with_check-goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licence">Licence</a>
 </p>
 
 ## :rocket: About the project
 
 A application to storage projects and their tasks using [Express](https://expressjs.com/pt-br/).
+
+## :ballot_box_with_check: Goals
+
+Apply all the main concepts of NodeJS and Express. How to use global/local middlewares, how to do a CRUD (Create, Read, Update, Delete) and learn the behavior of the requests and responses.
 
 ### Routes
 
