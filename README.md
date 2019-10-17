@@ -21,12 +21,12 @@
 </p>
 
 <p align="center">
-  <a href="#laura-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licence">Licence</a>
 </p>
 
-## :laura: About the project
+## :rocket: About the project
 
 A application to storage projects and their tasks using [Express](https://expressjs.com/pt-br/).
 
