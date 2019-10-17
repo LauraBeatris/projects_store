@@ -22,13 +22,13 @@
 
 <p align="center">
   <a href="#rocket-about-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licence">Licença</a>
+  <a href="#Goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Licence">Licence</a>
 </p>
 
 ## :rocket: About the project
 
-Creating an application to storage projects and their tasks using [Express](https://expressjs.com/pt-br/).
+A application to storage projects and their tasks using [Express](https://expressjs.com/pt-br/).
 
 ### Routes
 
@@ -67,7 +67,7 @@ If i call the route `POST /projects` passing `{ id: 1, title: 'AirHealth' }` e a
 
 - Crie um middleware global chamado em todas requisições que imprime (`console.log`) uma contagem de quantas requisições foram feitas na aplicação até então;
 
-## :memo: Licença
+## :memo: Licence
 
 MIT Licence. See the file [LICENSE](LICENSE.md) for more details.
 
