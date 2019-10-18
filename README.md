@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenge from GoStack Bootcamp. Goals: Apply the main concepts of NodeJS
+  Challenge from GoStack Bootcamp. Goals: Apply the main concepts of NodeJS and Express
 </h3>
 
 <p align="center">
