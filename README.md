@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src=".github/logo.png" width="200px" />
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
 <h3 align="center">
-  Challenge from GoStack Bootcamp. Goals: Apply the main concepts of NodeJS and Express
+  Challenge from GoStack Bootcamp. Goals: Apply the main concepts of NodeJS
 </h3>
 
 <p align="center">
